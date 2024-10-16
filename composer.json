@@ -1,0 +1,17 @@
+{
+    "name": "raft/kafka-queue",
+    "require": {
+        "laravel/framework": "^8.50"
+    },
+    "autoload": {
+        "psr-4": {
+            "Raft\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "r.titi",
+            "email": "r.titi@wewebit.com"
+        }
+    ]
+}
